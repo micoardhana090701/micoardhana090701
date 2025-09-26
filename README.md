@@ -35,11 +35,10 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/micoardhana090701/micoardhana090701/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN3b3oyNml3Y3hsbWZ4cXU4a25sdnF5cGtoMG1mOWpocHF6MDNqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWq6jZ0yNkMit0VfoW/giphy.gif" width="600" height="300">
+</p>
 ---
 
 ### 🌐 Connect with Me
