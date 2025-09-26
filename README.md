@@ -35,14 +35,27 @@
 
 ---
 
+### 😂 My Expression When Code Errors
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400"/>
+  <br/>
+  <i>"Me: Why it doesn't work?? — Also me: Forgot a semicolon ; "</i>
+</p>
+
+---
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN3b3oyNml3Y3hsbWZ4cXU4a25sdnF5cGtoMG1mOWpocHF6MDNqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rWq6jZ0yNkMit0VfoW/giphy.gif" width="600" height="300">
 </p>
+
 ---
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/micoyumnaardhana" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:<EMAIL>"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/micoyumnaardhana" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:micoardhana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
