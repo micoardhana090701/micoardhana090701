@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mico Ardhana</h1>
-<h3 align="center">Mobile Developer | Kotlin & Flutter Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Mico Yumna Ardhana</h1>
+<h3 align="center">Mobile & Backend Developer | Kotlin, Flutter & Spring Boot Enthusiast</h3>
 
 ---
 
 ### 🌸 About Me  
-- 💻 Passionate in **Mobile Development (Kotlin, Flutter)**  
+- 💻 Passionate in **Mobile & Backend Development (Kotlin, Flutter, Spring Boot)**  
 - 🎨 Love crafting clean UI & smooth UX  
+- ⚙️ Enjoy designing RESTful APIs and integrating mobile with backend services  
 - 🚀 Currently building apps that help daily life  
 - 🌱 Always learning new tech & best practices  
 
@@ -16,6 +17,8 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
